@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# 👋 Hi there, I'm **Tanishw Hadke**
+# 👋 Hi there, I'm **Tanishq Hadke**
 
 ![Electronics Engineering Student | VLSI Verification | FPGA Developer | Pune, India](https://img.shields.io/badge/Electronics%20Engineering-Student-blue?style=for-the-badge&logo=university&logoColor=white)
 ![Verilog | SystemVerilog | UVM | Vivado](https://img.shields.io/badge/Verilog%20%7C%20SystemVerilog%20%7C%20UVM%20%7C%20Vivado-00D4AA?style=for-the-badge&logo=verilog&logoColor=white)
